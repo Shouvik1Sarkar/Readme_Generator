@@ -53,8 +53,8 @@ npm install -g cline
 cline config
 
 # Clone and install
-git clone https://github.com/Shouvik1Sarkar/ai-readme-generator
-cd ai-readme-generator
+git clone https://github.com/Shouvik1Sarkar/Readme_Generator
+cd Readme_Generator
 npm install
 ```
 

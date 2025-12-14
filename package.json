@@ -1,0 +1,19 @@
+{
+  "name": "hackathon-submission",
+  "version": "1.0.0",
+  "description": "> Automatically generate **professional README files** for your JavaScript projects using **Cline CLI's AI capabilities**.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "child_process": "^1.0.2",
+    "prompts": "^2.4.2",
+    "util": "^0.12.5"
+  }
+}

@@ -3,8 +3,7 @@
 > Automatically generate **professional README files** for your JavaScript projects using **Cline CLI's AI capabilities**.
 
 <p align="center">
-  <strong>Built for AI Agents Assemble Hackathon 2024</strong><br/>
-  <em>Infinity Build Award Track</em>
+  <strong>AI Agents Assemble</strong><br/>
 </p>
 
 ---
